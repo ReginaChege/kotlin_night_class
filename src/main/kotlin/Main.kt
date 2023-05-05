@@ -88,7 +88,7 @@ fun vowelReplace(names: String) {
             output += i
         }
     }
-    return
+
 }
 
 
